@@ -28,6 +28,8 @@
 | **Infra/Devops** | <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/Google Cloud Platform-4285F4?style=for-the-badge&logo=googlecloud&logoColor=FFFFFF"/>                                                                                                         |
 | **AI Services**  | <img src="https://img.shields.io/badge/gpt 4-412991?style=for-the-badge&logo=openai&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/Clova STT-03C75A?style=for-the-badge&logo=naver&logoColor=FFFFFF"/>                                                                                                                                                                                                                                     |
 
+<br>
+
 ## 서비스 소개
 > **소랑소랑** (/so-rang/ : 제주 방언으로 '**소리**'를 의미) <br>
 > 고령층의 소중한 이야기가 AI 기술을 만나
@@ -39,13 +41,19 @@
 - [이야기 보따리 담기](https://sorang.site/master) (Senior 👵🏻)
 - [이야기 보따리 풀기](https://sorang.site/) (Kids 🧒🏻)
 
+<br>
+
 ## 서비스 기능
 ### 이야기 보따리 담기 (Senior 👵🏻)
 ![Senior_1](./senior_1.png)
 ![Senior_2](./senior_2.png)
 
+<br>
+
 ### 이야기 보따리 풀기 (Kids 🧒🏻)
 ![Kids](./kids.png)
+
+<br>
 
 ## 핵심 기술
 ### 📔 이야기의 시작 (공통)
@@ -62,6 +70,8 @@
 - 이야기 기반 퀴즈 풀이 시스템
 - 퀴즈 정답 시 지역별 제주 아이템 제공
 - 지역 문화 학습을 위한 인터랙티브 UI/UX
+
+<br>
 
 ## 아키텍쳐
 ![아키텍쳐](./tech.png)
