@@ -34,7 +34,7 @@
 > 고령층의 소중한 이야기가 AI 기술을 만나
 > 어린 세대를 위한 새로운 이야기로 피어나는 **디지털 스토리텔링 서비스**
 
-☁️ **구름톤 전시관**: [바로가기]()
+☁️ **구름톤 전시관**: [바로가기](https://9oormthon.goorm.io/1754e699-7fb0-8099-93d7-c3dfd4cd591e)
 
 🔗 **Visit Our Service!**
 - [이야기 보따리 담기](https://sorang.site/master) (Senior 👵🏻)
